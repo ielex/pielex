@@ -1,5 +1,5 @@
 
 | URI | Canonical form |
 | --- | --- |
-|  | List all *new or modified* files |
+|  | **bʰag-*  |
 |  | Show file differences that **haven't been** staged |
